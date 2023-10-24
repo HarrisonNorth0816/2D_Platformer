@@ -1,27 +1,31 @@
-# Project Name
+# Exercise 4.3—Levels
 
-2D Platformer
+Exercise for MSCH-C220
 
-Context and date
+An for the 2D Platformer project, exploring the TileMap node.
 
-10/15/2023
-
-Description
-
-A simple 2d platformer
 
 ## Implementation
 
-godot 4.1
+Built using Godot 4.1.1
 
-## What Makes this a Game?
+Player sprite by me
+
+Background by me
+
+tiles created by: https://anokolisa.itch.io/sidescroller-shooter-central-city
 
 ## References
 
-Canvas
+None
+
 
 ## Future Development
 
-## Created by
+None
+
+
+## Created by 
 
 Harrison North
+```
