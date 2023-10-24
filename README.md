@@ -1,31 +1,21 @@
-# Exercise 4.3—Levels
+# Project Name
+10/24/23
 
-Exercise for MSCH-C220
+Description
 
-An for the 2D Platformer project, exploring the TileMap node.
-
+2D Cyberpunk themed platformer
 
 ## Implementation
 
-Built using Godot 4.1.1
-
-Player sprite by me
-
-Background by me
-
-tiles created by: https://anokolisa.itch.io/sidescroller-shooter-central-city
+## What Makes this a Game?
 
 ## References
 
-None
+https://anokolisa.itch.io/sidescroller-shooter-central-city
 
 
 ## Future Development
 
-None
+## Created by
 
-
-## Created by 
-
-Harrison North
-```
+harrison north
